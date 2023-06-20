@@ -41,5 +41,5 @@ Utilizar Expo GO para abrir la app en algun dispositivo o emular alguno con Andr
         grid-template-columns:repeat(3,1fr);
         gap:20px;
     }
-    .table img:
+    
 </style>
